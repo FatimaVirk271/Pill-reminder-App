@@ -1,0 +1,12 @@
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\MedicineReminderApp.exe
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\MedicineReminderApp.exe.config
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\MedicineReminderApp.pdb
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\Microsoft.Data.Sqlite.dll
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\SQLitePCLRaw.batteries_v2.dll
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\SQLitePCLRaw.core.dll
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\System.Buffers.dll
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\System.Memory.dll
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\System.Numerics.Vectors.dll
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\virk3\OneDrive\Desktop\MedicineReminderApp\MedicineReminderApp\Publish\e_sqlite3.dll
